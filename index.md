@@ -7,19 +7,19 @@ Ry's Git Tutorial
 =====================================================
 
 ## TOC
-- ![](images/index/introduction.png)[Introduction](introduction.md)
-- ![](images/index/the-basics.png)[The Basics](the-basics.md)
-- ![](images/index/undoing-changes.png)[Undoing Changes](undoing-changes.md)
-- ![](images/index/branches-1.png)[Branches I](branches-1.md)
-- ![](images/index/branches-2.png)[Branches II](branches-2.md)
-- ![](images/index/rebasing.png)[Rebasing](rebasing.md)
-- ![](images/index/rewriting-history.png)[Rewriting History](rewriting-history.md)
-- ![](images/index/remotes.png)[Remotes](remotes.md)
-- ![](images/index/centralized-workflows.png)[Centralized Workflows](centralized-workflows.md)
-- ![](images/index/distributed-workflows.png)[Distributed Workflows](distributed-workflows.md)
-- ![](images/index/patch-workflows.png)[Patch Workflows](patch-workflows.md)
-- ![](images/index/tips-and-tricks.png)[Tips & Tricks](tips-and-tricks.md)
-- ![](images/index/plumbing.png)[Plumbing](plumbing.md)
+- ![](images/index/introduction.png)[Introduction](00-introduction.md)
+- ![](images/index/the-basics.png)[The Basics](01-the-basics.md)
+- ![](images/index/undoing-changes.png)[Undoing Changes](02-undoing-changes.md)
+- ![](images/index/branches-1.png)[Branches I](03-branches-1.md)
+- ![](images/index/branches-2.png)[Branches II](04-branches-2.md)
+- ![](images/index/rebasing.png)[Rebasing](05-rebasing.md)
+- ![](images/index/rewriting-history.png)[Rewriting History](06-rewriting-history.md)
+- ![](images/index/remotes.png)[Remotes](07-remotes.md)
+- ![](images/index/centralized-workflows.png)[Centralized Workflows](08-centralized-workflows.md)
+- ![](images/index/distributed-workflows.png)[Distributed Workflows](09-distributed-workflows.md)
+- ![](images/index/patch-workflows.png)[Patch Workflows](10-patch-workflows.md)
+- ![](images/index/tips-and-tricks.png)[Tips & Tricks](11-tips-and-tricks.md)
+- ![](images/index/plumbing.png)[Plumbing](12-plumbing.md)
 
 ---------------------------------------------------------------------------------
 

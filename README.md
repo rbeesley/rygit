@@ -1,6 +1,8 @@
 Ry's Git Tutorial
 =====================================================
 
+---------------------------------------------------------------------------------
+
 ### Ry's Git Tutorial
 - Ebooks(US): Amazon Kindle, Apple AppStore
 - Website: [Ry’s git tutorial](http://rypress.com/tutorials/git/index)
